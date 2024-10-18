@@ -2,10 +2,11 @@
 //
 // dot net plugins are supported in LCD Smartie 5.3 beta 3 and above.
 //
-// ====  Ïëàãèí "txt_manager" - ïëàãèí ðàáîòû ñ òåêñòîì. ====
-// Àâòîð - Ñàïóíîâ Ä.Â. 
-// Êåìåðîâî 2022 ã.
+// ====  Плагин "txt_manager" - плагин работы с текстом. ====
+// Автор - Сапунов Д.В. 
+// Кемерово 2022 г.
 // You may provide/use upto 20 functions (function1 to function20).
+
 
 
 using System;
