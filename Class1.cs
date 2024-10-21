@@ -12,8 +12,6 @@ using System;
 using System.Text;
 using System.IO;
 using System.Diagnostics;
-using System.IO.Ports;
-using System.Text.RegularExpressions;
 
 namespace txt_manager
 {
